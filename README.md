@@ -4,13 +4,13 @@ A project to visualize classic algorithms and data structures interactively.
 
 ## Features
 
-- Visualize sorting algorithms (Bubble Sort, Quick Sort, etc.)
+- Visualize sorting algorithms (Depth First Search, Breadth First Searcc)
 - Step-by-step animations
 - Adjustable visualization speed
 
 ## Demo
 
-![Demo Screenshot](<img width="699" height="803" alt="image" src="https://github.com/user-attachments/assets/439c7b97-ab35-4e31-8e06-b70a7d6be283" />)
+![Demo Screenshot](https://drive.google.com/file/d/1VGuyTUHLEAXXaEaTNxaCSPB78IhbJ9lr/view?usp=sharing)
 
 ## Installation
 

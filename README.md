@@ -11,6 +11,9 @@ A project to visualize classic algorithms and data structures interactively.
 ## Demo
 
 ![Demo Screenshot](https://drive.google.com/uc?export=view&id=1VGuyTUHLEAXXaEaTNxaCSPB78IhbJ9lr)
+
+![Demo Screenshot](https://drive.google.com/uc?export=view&id=1cHptnCeZFbV015kFyi8wxRUSaohwvfmz)
+
 ## Installation
 
 1. Clone this repository:

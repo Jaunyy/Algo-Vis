@@ -10,7 +10,7 @@ A project to visualize classic algorithms and data structures interactively.
 
 ## Demo
 
-![Demo Screenshot](images/demo.png)
+![Demo Screenshot](<img width="699" height="803" alt="image" src="https://github.com/user-attachments/assets/439c7b97-ab35-4e31-8e06-b70a7d6be283" />)
 
 ## Installation
 
